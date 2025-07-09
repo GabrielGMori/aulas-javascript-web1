@@ -38,5 +38,5 @@ console.log(pessoa);
 const saudacaoText = 'Bem-vindo ao nosso site';
 
 function saudacao() {
-    alert();
+    alert(saudacaoText);
 }
